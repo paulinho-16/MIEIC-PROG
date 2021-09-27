@@ -1,0 +1,29 @@
+Paulo Ribeiro
+123456789
+4
+Rua Nova / 131 / - / 4490-666 / Povoa de Varzim
+2 ; 1
+::::::::::
+Paula Alexandra
+33333333333
+4
+Rua Nova / 131 / - / 4490-666 / Povoa de Varzim
+1 ; 2
+::::::::::
+Fernando Marinho
+171217121712
+4
+Rua Nova / 131 / - / 4490-666 / Povoa de Varzim
+2
+::::::::::
+Cristina Salgado
+631313131316
+2
+Rua Velha / 163 / - / 4490-444 / Povoa de Varzim
+3
+::::::::::
+Angelina Pinheiro
+84657392
+2
+Praca Dos Lutadores / 101 / 1A / 4490-333 / Povoa de Varzim
+1
