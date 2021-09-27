@@ -43,3 +43,8 @@
 *.idb
 *.vcxproj*
 *.obj*
+*.iobj
+*.ipdb
+*.json
+*.sqlite
+*.opendb
